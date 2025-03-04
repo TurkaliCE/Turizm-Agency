@@ -1,0 +1,24 @@
+@font-face {
+  font-family: Jua;
+  src: url(./assets/Jua-Regular.ttf);
+}
+
+
+.background-img {
+    background-image: url("./assets/island-image.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+
+.card-py {
+  margin-top: 100px!important;
+  margin-bottom: 40px!important;
+}
+#BrandText{
+ font-family: Jua!important;
+ font-size: xx-large;
+  color: darkcyan;
+}
+
+
+
